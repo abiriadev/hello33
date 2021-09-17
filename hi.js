@@ -1,1 +1,3 @@
-console.log("hi")
+const msg = "hi"
+
+console.log(msg)
